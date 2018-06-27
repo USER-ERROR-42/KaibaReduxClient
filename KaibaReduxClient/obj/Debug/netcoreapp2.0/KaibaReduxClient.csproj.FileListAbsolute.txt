@@ -1,0 +1,10 @@
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\bin\Debug\netcoreapp2.0\KaibaReduxClient.deps.json
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\bin\Debug\netcoreapp2.0\KaibaReduxClient.runtimeconfig.json
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\bin\Debug\netcoreapp2.0\KaibaReduxClient.runtimeconfig.dev.json
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\bin\Debug\netcoreapp2.0\KaibaReduxClient.dll
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\bin\Debug\netcoreapp2.0\KaibaReduxClient.pdb
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\obj\Debug\netcoreapp2.0\KaibaReduxClient.csproj.CoreCompileInputs.cache
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\obj\Debug\netcoreapp2.0\KaibaReduxClient.AssemblyInfoInputs.cache
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\obj\Debug\netcoreapp2.0\KaibaReduxClient.AssemblyInfo.cs
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\obj\Debug\netcoreapp2.0\KaibaReduxClient.dll
+C:\Users\kart5\source\repos\KaibaReduxClient\KaibaReduxClient\obj\Debug\netcoreapp2.0\KaibaReduxClient.pdb
